@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Gotham Bold';
+    src: url("../fonts/Gotham Bold Regular.ttf");
+}
+
+body {
+    background-image: url("../img/BackgroundHomePage.png");
+}
+
+
+/*.logo-area {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Gotham Bold';
+    color: white;
+}
+
+.logo-area h1 {
+    font-size: 100%;
+}
+
+.logo-area h2 {
+    font-size: 50%;
+}
+
+
+.icon-area {
+    margin-top: 75px;
+}
+
+
+
+.icon-area img {
+    margin: 0 50px 0 50px;
+    width: 7.5%;
+    height: 4.5%;
+}*/
